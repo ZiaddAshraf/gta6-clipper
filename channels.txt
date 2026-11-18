@@ -1,0 +1,5 @@
+# Add one source per line: Twitch channel name or a live URL.
+caseoh_
+kaicenat
+https://www.youtube.com/@IShowSpeed/live
+# Add a Kick channel URL here when you choose one.

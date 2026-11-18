@@ -1,0 +1,3 @@
+streamlink>=8.5,<9
+av>=11,<19
+pytchat==0.5.5
